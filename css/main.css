@@ -1,0 +1,42 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #fcfcfc;
+}
+
+a:link, a:visited, a:hover, a:active  {
+  text-decoration: none;
+}
+
+h1  {
+  font-weight: 900;
+}
+
+.jumbo {
+  border-radius: 0px;
+  background-image: url(https://s3-us-west-2.amazonaws.com/societyofentropy/background.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+#title {
+  color: #fcfcfc;
+  font-weight: 700;
+  font-size: 90px;
+  text-align: center;
+}
+
+#initiation {
+  height: 60px;
+  width: 180px;
+  margin-top: 30px;
+  border: 1px solid;
+  border-color: #fcfcfc;
+  background-color: #fcfcfc;
+  color: #249810;
+  font-size: 24px;
+  font-weight: 900;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+}
